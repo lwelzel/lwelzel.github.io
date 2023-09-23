@@ -1,26 +1,29 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: cover_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Leiden Observatory</p>
+    <p>Space Eng., TU Delft</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, nice to meet you! I'm an astronomy and space engineering student looking for exoplanets.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm hoping we push the performance of next generation telescopes to finally get that juicy picture of a terrestrial exoplanet (we can do this, trust). Staring at pixelated blotches on my screen for extended amounts of time is still time well spent. Did you know they did surgery on a SNSPD? 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I will talk your ear off about deep learning, especially using it in exoplanet imaging and characterization. My favorite pastime is trying to convince astronomers to adopt more deep learning methods (impossible). Let me shoehorn reinforcement learning into more of exoplanet science, and we will become unstoppable. Hot take: PyTorch > NumPy also for computational physics (praise SGD). 
+
+Two truths and a lie: I don't get too excited about tangents during my research, I've worked on high-powered cryogenic rocket engines, and the UN Security Council exempted me from the knowledge embargo on nuclear technology.
+
+You can find more information about me, my projects and wonderful teams on this website.

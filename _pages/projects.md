@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: The projects I am most proud of, many of which were made possible because of my amazing friends and collaborateurs. Pleas see my CV for a full list of all projects I have been involved in.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Astronomy, Machine Learning, Engineering]
 horizontal: false
 ---
 
