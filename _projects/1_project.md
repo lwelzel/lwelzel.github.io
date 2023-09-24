@@ -2,7 +2,7 @@
 layout: page
 title: 🌱 Bloom
 description: Eco-friendly rocketry & disaster relief
-img: assets/img/bloom_cover_pic.jpg
+img: assets/img/bloom_cover.jpg
 importance: 1
 category: Engineering
 ---
