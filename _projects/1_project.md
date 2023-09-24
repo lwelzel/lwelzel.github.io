@@ -14,7 +14,7 @@ With this, we hoped, we can reduce the risk for follow-on mud or landslides whic
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/bloom_cover_pic.jpg" title="The best team in the world!" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/bloom_cover.jpg" title="The best team in the world!" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -50,7 +50,7 @@ Bloom would not exist without them, and they deserve all the praise for their pa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/about_to_drop_the_hottest_rocket.jpg" title="About to drop the hottest soil-fixing seeds of 2022." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/about_to_drop_the_hottest_rocket_2022.jpg" title="About to drop the hottest soil-fixing seeds of 2022." class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/DSCF1440.JPG" title="Pressure testing in the cold." class="img-fluid rounded z-depth-1" %}
