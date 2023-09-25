@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cryo
+title: ❄️Cryo
 description: Cryogenic propulsion in DARE
 img: assets/img/cryo_frozen.jpg
 importance: 2
@@ -36,7 +36,7 @@ Our DARE safety officers & trainees who make it their mission to protect us from
 </div>
 
 With that being said, lets jump into my first project; the easy and straightforward task of designing a coaxial swirl injector for our LOX-ethanol engine. 
-Together with my good friends and colleagues <a href="https://www.linkedin.com/in/andrew-spekreijse/">Andrew</a> and <a href="https://www.linkedin.com/in/nicholas-eichman/">Nick</a>, we immediately violated <a href="https://spacecraft.ssl.umd.edu/akins_laws.html">Atkin's 26th law</a> of spacecraft design and started the design of one of the most difficult parts of an engine, choosing a notoriously tricky option.
+Together with my good friends and colleagues <a href="https://www.linkedin.com/in/andrew-spekreijse/">Andrew</a> and <a href="https://www.linkedin.com/in/nicholas-eichman/">Nick</a>, we immediately violated <a href="https://spacecraft.ssl.umd.edu/akins_laws.html">Akin's 26th law</a> of spacecraft design and started the design of one of the most difficult parts of an engine, choosing a notoriously tricky option.
 Not to be deterred by our own admittedly limited abilities (sorry lads), we popped out a design and planned our first test. But to test we would need to produce the parts for our design first.
 Long story short, we did in fact end up with a prototype system, and the memory of working a whole weekend on a manual lathe and mill on a coaxial element just for us to mess up the last operation will forever be with me. I promise you, if you stare long enough at a broken drill bit stuck in an aluminium piece the aluminium stares back.
 
@@ -53,7 +53,7 @@ Long story short, we did in fact end up with a prototype system, and the memory 
 </div>
 
 Finally testing the prototype on CRYOs full engine setup did feel a lot like growing up, and I hope my co-conspirators know that I will forever treasure our time on this project. 
-Still, we learned from our first encounter with Atkin's laws and decided to prove his fourth law right for our next trick. CRYO and our "Blizzard" engine was making quick progress, and soon we found ourselves handling LOX and putting some elbow grease into getting our system ready for hot fires.
+Still, we learned from our first encounter with Akin's laws and decided to prove his fourth law right for our next trick. CRYO and our "Blizzard" engine was making quick progress, and soon we found ourselves handling LOX and putting some elbow grease into getting our system ready for hot fires.
 I am also glad to mention that my friends' talent and experience was growing in equal measure to their leadership abilities, and they were able to pick up the heavy burden of coordinating the flock of overexcited geese that was us.
 Naturally, we immediately had to spend several days around ultrasonic cleaning equipment and acetic acid scrubbing all that elbow grease out again. LOX can ignite on contact with carbon compounds.
 

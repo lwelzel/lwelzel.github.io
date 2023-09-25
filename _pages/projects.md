@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: The projects I am most proud of, many of which were made possible because of my amazing friends and collaborateurs. Pleas see my CV for a full list of all projects I have been involved in.
+description: The projects I am most proud of, many of which were made possible because of my amazing friends and collaborateurs. Still very much under works. Please see my CV for a full list of all projects I have been involved in.
 nav: true
 nav_order: 2
 display_categories: [Astronomy, Machine Learning, Engineering]
